@@ -1,3 +1,7 @@
+.bg-img {
+    background-image: url(https://i.imgur.com/XN1B1V0.png);
+}
+
 .txt-inicio {
     font-size: 60px;
     text-align: center;
@@ -34,3 +38,4 @@
 .txt-decor a:hover {
     color: rgba(0, 255, 30, 0.89)
 }
+
