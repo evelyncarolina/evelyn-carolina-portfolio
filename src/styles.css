@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1px grey; 
+  }
+   
+  ::-webkit-scrollbar-thumb {
+    background: #cf87ff; 
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #9941D5; 
+  }
