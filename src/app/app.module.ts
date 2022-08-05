@@ -7,6 +7,7 @@ import { MenuComponent } from './menu/menu.component';
 import { HomeComponent } from './home/home.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { ProjetoUmComponent } from './projeto-um/projeto-um.component';
+import { SobreComponent } from './sobre/sobre.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ProjetoUmComponent } from './projeto-um/projeto-um.component';
     MenuComponent,
     HomeComponent,
     PortfolioComponent,
-    ProjetoUmComponent
+    ProjetoUmComponent,
+    SobreComponent
   ],
   imports: [
     BrowserModule,
