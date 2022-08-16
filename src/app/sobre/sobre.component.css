@@ -1,14 +1,18 @@
 h1 {
     font-size: 14px;
+    padding: 0px !important;
+    margin: 0px !important;
 }
 
 .txt-1 {
-    font-size: 3rem;
-    margin: 0px;
+    font-size: 52px;
+    padding: 0px !important;
+    margin: 0px !important;
 }
 .txt-2 {
     padding: 0px 5px;
     display: table;
     font-size: 1rem; 
+    color: aliceblue;
     background-color: blueviolet;
 }
