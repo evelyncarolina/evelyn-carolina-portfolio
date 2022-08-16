@@ -1,0 +1,14 @@
+h1 {
+    font-size: 14px;
+}
+
+.txt-1 {
+    font-size: 3rem;
+    margin: 0px;
+}
+.txt-2 {
+    padding: 0px 5px;
+    display: table;
+    font-size: 1rem; 
+    background-color: blueviolet;
+}
