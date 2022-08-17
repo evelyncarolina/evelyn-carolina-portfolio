@@ -15,3 +15,14 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #9941D5; 
   }
+
+  body {
+    background-image: url(https://i.imgur.com/XN1B1V0.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+  body {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Poppins', sans-serif;
+  }
