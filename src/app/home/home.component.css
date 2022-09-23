@@ -35,7 +35,7 @@ h1 {
     color: black;
 }
 
-.txt-decor a:hover {
-    color: rgba(0, 255, 30, 0.89)
+.txt-decor:hover {
+    border-bottom: 2px solid #9941D5;
 }
 

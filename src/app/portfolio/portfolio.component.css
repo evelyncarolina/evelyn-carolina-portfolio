@@ -32,3 +32,8 @@ a {
   border-radius: 11px;
 }
 
+h4:hover {
+  border-bottom: 2px solid #9941D5;
+  display: table;
+}
+
