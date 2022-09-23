@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Abril Fatface', cursive;
+  }
+
+.txt-inicio {
+    font-size: 60px;
+    text-align: center;
+}
+
+.img-icone {
+    width: 50px;
+    height: 50px;
+    align-items: center;
+}
+
+.p-item {
+    padding-top: 6rem;
+}
+
+.p-txt {
+    padding-top: 7rem; 
+    margin: 0% 0% 0% 0%;
+}
+
+.txt-carolina {
+    padding: 0% 0% 0% 0%;
+}
+
+.mb-0 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+.txt-decor {
+    text-decoration: none;
+    color: black;
+}
+
+.txt-decor:hover {
+    border-bottom: 2px solid #9941D5;
+}
+

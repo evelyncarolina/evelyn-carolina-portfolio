@@ -1,0 +1,39 @@
+.bg-portfolio {
+  background-color: aqua !important ;
+} 
+
+.bg-linguagens {
+  background-color: (138, 43, 226)rgb;
+  border-radius: 2rem;
+  padding: 0px 4px 0px 4px;
+  color: aliceblue;
+  font-size: 13px;
+}
+
+.color-projeto {
+  color: #9941D5;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.tags {
+  font-size: 12px;
+}
+
+.tags p {
+  color: #ffff;
+  background-color: #9941D5;
+  padding: 4px;
+  display: table;
+  text-align: center;
+  border-radius: 11px;
+}
+
+h4:hover {
+  border-bottom: 2px solid #9941D5;
+  display: table;
+}
+
